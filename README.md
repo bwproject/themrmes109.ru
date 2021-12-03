@@ -1,17 +1,17 @@
 # Мой личный сайт www.themrmes109.ru
 
-## Usage 
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
 ![Скрин](assets/images/screenshot.png)
 
 ## Мои другие проекты
 
-projectbw.ru
+#:white_check_mark: projectbw.ru
+[Сайт projectbw.ru](https://projectbw.ru)
+[GitHub projectbw.ru](https://projectbw.ru)
 
-themrmes109.ru
+#:white_check_mark: themrmes109.ru
+[Сайт themrmes109.ru](https://themrmes109.ru)
+[GitHub themrmes109.ru](https://themrmes109.ru)
 
-streamsbyben.space
+#:white_check_mark:streamsbyben.space
+[Сайт streamsbyben.space](https://streamsbyben.space)
+[GitHub streamsbyben.space](https://streamsbyben.space)
