@@ -5,8 +5,8 @@ const banners = [
         background: "background: #00b3ff",
         colorText: "#fff",
         dynamicText: [
-		    `<strong>Подпишись на группу в ВК<br>будь в курсе всех новостей</strong>`,
-            `<strong>vk.com/<br>TheMrMes109</strong>`
+		`<strong>Подпишись на группу в ВК<br>будь в курсе всех новостей</strong>`,
+            	`<strong>vk.com/<br>TheMrMes109</strong>`
         ]
     },
     {
@@ -21,8 +21,8 @@ const banners = [
         background: "background: #b700ff",
         colorText: "#fff",
         dynamicText: [
-			`<strong>Стримы на твиче<br>подпишись что бы не пропустить</strong>`,
-            `<strong>twitch.tv/<br>the_mr_mes109</strong>`
+		`<strong>Стримы на твиче<br>подпишись что бы не пропустить</strong>`,
+            	`<strong>twitch.tv/<br>the_mr_mes109</strong>`
         ]
     },
     {
@@ -37,8 +37,8 @@ const banners = [
         background: "background: #db120b",
         colorText: "#fff",
         dynamicText: [
-			`<strong>Канал на ютубе<br>Моменты со стримов и нарезки</strong>`,
-            `<strong>youtube.com/c/<br>TheMrMes109</strong>`
+		`<strong>Канал на ютубе<br>Моменты со стримов и нарезки</strong>`,
+            	`<strong>youtube.com/c/<br>TheMrMes109</strong>`
         ]
     },
     {
@@ -53,8 +53,8 @@ const banners = [
         background: "background: #000000",
         colorText: "#fff",
         dynamicText: [
-			`<strong>Тик ток<br>Моменты со стримов</strong>`,
-            `<strong>tiktok.com/<br>@the_mr_mes109</strong>`
+		`<strong>Тик ток<br>Моменты со стримов</strong>`,
+        	`<strong>tiktok.com/<br>@the_mr_mes109</strong>`
         ]
     },
     {
@@ -69,8 +69,8 @@ const banners = [
         background: "background: #66ff00",
         colorText: "#fff",
         dynamicText: [
-			`<strong>Интаграм<br>Фотки и сторисы</strong>`,
-            `<strong>instagram.com/<br>the_mr_mes109</strong>`
+		`<strong>Интаграм<br>Фотки и сторисы</strong>`,
+        	`<strong>instagram.com/<br>the_mr_mes109</strong>`
         ]
     },
     {
@@ -85,8 +85,8 @@ const banners = [
         background: "background: #66ff00",
         colorText: "#fff",
         dynamicText: [
-			`<strong>Дискорд<br>Общаемся и тд</strong>`,
-            `<strong>discord.com/invite/<br>qQ2F9dP</strong>`
+		`<strong>Дискорд<br>Общаемся и тд</strong>`,
+            	`<strong>discord.com/invite/<br>qQ2F9dP</strong>`
         ]
     },
     {
@@ -101,9 +101,9 @@ const banners = [
         background: "background: #66ff00",
         colorText: "#fff",
         dynamicText: [
-			`<strong>Сервер в Minecraft<br>Заходи к нам</strong>`,
-            `<strong>PROJECTBW 1.16.5 <br>PROJECTBW.RU</strong>`,
-			`<strong>IP: <br>mc.projectbw.ru</strong>`
+		`<strong>Сервер в Minecraft<br>Заходи к нам</strong>`,
+           	`<strong>PROJECTBW 1.16.5 <br>PROJECTBW.RU</strong>`,
+		`<strong>IP: <br>mc.projectbw.ru</strong>`
         ]
     },
     {
@@ -118,8 +118,8 @@ const banners = [
         background: "background: #66ff00",
         colorText: "#fff",
         dynamicText: [
-			`<strong>Мой сайт визитка<br>Много полезной информации</strong>`,
-            `<strong>Заходи смтори<br>themrmes109.ru</strong>`
+		`<strong>Мой сайт визитка<br>Много полезной информации</strong>`,
+            	`<strong>Заходи смтори<br>themrmes109.ru</strong>`
         ]
     },
     {
