@@ -30,7 +30,7 @@
         /* Увеличенный заголовок */
         h1 {
             font-family: Pompadur, 'Comic Sans MS', cursive;
-            font-size: 80px; /* Было 50px */
+            font-size: 100px; /* Было 80px */
             display: inline-block;
             margin: 20px 0;
         }
@@ -45,7 +45,7 @@
             margin: 15px;
             text-decoration: none;
             display: inline-block;
-            transition: transform 0.3s ease, filter 0.3s ease;
+            transition: transform 0.3s ease;
         }
 
         /* Анимация RGB-волны */
@@ -57,7 +57,7 @@
             100% { color: rgb(255, 0, 0); }  /* Красный */
         }
 
-        /* Анимация для каждой буквы с задержкой */
+        /* Анимация для букв с задержкой */
         .rgb-letter {
             display: inline-block;
             animation: rgbWave 3s infinite alternate;
@@ -76,22 +76,14 @@
         .rgb-letter:nth-child(11) { animation-delay: 2s; }
         .rgb-letter:nth-child(12) { animation-delay: 2.2s; }
 
-        /* Hover-эффект для всех иконок */
+        /* RGB-анимация для иконок */
+        .media a i {
+            animation: rgbWave 3s infinite alternate;
+        }
+
+        /* Hover-эффект для увеличения иконок */
         .media a:hover {
             transform: scale(1.3);
-            filter: brightness(1.5);
-        }
-
-        /* RuTube иконка */
-        .rutube-icon {
-            width: 50px; /* Было 40px */
-            height: 50px;
-            transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
-        }
-
-        .rutube-icon:hover {
-            transform: scale(1.3);
-            filter: brightness(1.5);
         }
     </style>
 </head>
@@ -125,12 +117,7 @@
                 <a href="https://vk.com/themrmes109" target="_blank"><i class="fab fa-vk"></i></a>
                 <a href="https://www.twitch.tv/the_mr_mes109" target="_blank"><i class="fab fa-twitch"></i></a>
                 <a href="https://www.youtube.com/c/TheMrMes109" target="_blank"><i class="fab fa-youtube"></i></a>
-
-                <!-- RuTube -->
-                <a href="https://rutube.ru/channel/32197792/" target="_blank">
-                    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/RuTube_logo.svg" alt="RuTube" class="rutube-icon">
-                </a>
-
+                <a href="https://rutube.ru/channel/32197792/" target="_blank"><i class="fab fa-youtube"></i></a>
                 <a href="https://www.instagram.com/the_mr_mes109" target="_blank"><i class="fab fa-instagram"></i></a>
                 <a href="https://www.tiktok.com/@the_mr_mes109" target="_blank"><i class="fab fa-tiktok"></i></a>
                 <a href="https://discord.gg/qQ2F9dP" target="_blank"><i class="fab fa-discord"></i></a>
